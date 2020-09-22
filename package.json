@@ -1,0 +1,24 @@
+{
+  "name": "simple-img-spider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyinJune/simple-img-spider.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skyinJune/simple-img-spider/issues"
+  },
+  "homepage": "https://github.com/skyinJune/simple-img-spider#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "got": "^11.7.0"
+  }
+}
